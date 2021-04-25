@@ -9,6 +9,7 @@ BSC链智能合约开发的项目模板
     * 切换环境: `export NODE_ENV=test`
 * full: flat之后的合约文件夹
 * migrations: 迁移脚本文件夹
+* scripts: 脚本文件
 * truffle-config.js: truffle项目配置
 ## Usage
 1. `git clone https://github.com/marvindx/truffle-box.git`
